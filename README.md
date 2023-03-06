@@ -3,4 +3,4 @@
 This is a parser class and example SDI application to parse the TSCN file format, which I thought looked neat.
 
 <h2>Screenshot with a cool retro background!</h2
-<img src="_promotion/tscn_parser_screenshot1.png" />
+<img src="https://github.com/mindfulvector/TSCN-Parser/blob/main/_promotion/tscn_parser_screenshot1.png" />
