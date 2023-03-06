@@ -1,0 +1,11 @@
+#comment line
+
+[node name="mesh" type="MeshInstance3D" parent="Armature001"]
+
+mesh = SubResource(1)
+skeleton = NodePath("..:")
+
+[sub_resource id=3 type="Animation"]
+
+tracks/0/type = "transform"
+tracks/0/path = NodePath("Cube:")

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/05 18:08:45.000.698,=D:\Dev\Embar\Projects\SDI_Import\ResourceFile.pas</Transaction>
+    <Transaction>2023/03/05 18:25:37.000.519,D:\Dev\Embar\Projects\SDI_Import\ResourceFile.pas=</Transaction>
+    <Transaction>2023/03/05 18:28:36.000.901,=D:\Dev\Embar\Projects\lib\nns\DataComponents\ResourceFile.pas</Transaction>
+    <Transaction>2023/03/05 18:29:02.000.536,=D:\Dev\Embar\Projects\SDI_Import\Unit1.pas</Transaction>
+    <Transaction>2023/03/05 18:34:29.000.276,D:\Dev\Embar\Projects\SDI_Import\CResFile.dfm=D:\Dev\Embar\Projects\SDI_Import\Unit1.dfm</Transaction>
+    <Transaction>2023/03/05 18:34:29.000.276,D:\Dev\Embar\Projects\SDI_Import\CResFile.pas=D:\Dev\Embar\Projects\SDI_Import\Unit1.pas</Transaction>
+    <Transaction>2023/03/05 19:44:56.700,D:\Dev\Embar\Projects\SDI_Import\TSCNParser.dproj=D:\Dev\Embar\Projects\SDI_Import\SDIAPP.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
